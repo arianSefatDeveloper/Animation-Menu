@@ -40,7 +40,7 @@ nav a {
 	height: 100%;
 	z-index: 0;
 	border-radius: 8px;
-	transition: margin .5s;
+	transition: left .5s;
 	background-color: #f68657;
 	width: 78px;
 }
